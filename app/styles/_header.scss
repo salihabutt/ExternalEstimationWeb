@@ -1,0 +1,22 @@
+header {
+	background-color: $grey-dark;
+	height: 50px;
+
+	.logo{
+		float: left;
+	    width: 219px;
+	    text-align: center;
+	    padding-top: 13px;
+	    margin-right: 32px;
+	}	
+
+	.screen-title{
+		float: left;
+		
+		h3{
+			margin-top: 10px;
+		}
+
+	}
+
+}

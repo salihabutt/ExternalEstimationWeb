@@ -1,0 +1,26 @@
+footer {
+	height: 55px;
+	padding: 19px 135px 5px 22px;
+	background-color: #ffffff;
+
+	.disclaimer{
+		float: right;
+		
+		span{
+			margin-left: 23px;
+			margin-right: 0px;
+		}
+	}
+
+	span{
+		margin-right: 8px;
+		font-size: 12px;
+    	color: #9F9F9F;
+	}
+
+	a{
+		font-size: 12px;
+    	color: #9F9F9F;
+    	text-decoration: underline;
+	}
+}
